@@ -3,13 +3,53 @@
 * {
     margin: 0;
     padding: 0;
+    border: 0;
     font-family: cursive, 'Times New Roman', Times, serif;
     font-size: 1.0em;
+    color: #3a3a3a;
 }
+
+/* hero image */
 
 #hero {
     background:url(/assets/images/hero-image.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
+}
+
+/* headings navigation */
+
+h1 {
+text-transform: uppercase;
+color: black;
+letter-spacing: 1px;
+}
+
+#logo {
+    float: left;
+    font-size: 250%;
+}
+
+#menu {
+    font-size: 125%;
+    letter-spacing: 1px;
+}
+
+#menu, #logo {
+    line-height: 75px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 20px;
+}
+
+#menu a {
+    text-decoration: none;
+}
+
+#menu a:hover {
+    border-bottom: 2px solid black;
 }
