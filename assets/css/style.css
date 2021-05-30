@@ -125,3 +125,24 @@ h3{
 .active {
     border-bottom: 2px solid black;
 }
+
+/* footer */
+
+.footer {
+    width: 100vw;
+    display: block;
+    overflow: hidden;
+    padding: 20px 0;
+    box-sizing: border-box;
+    letter-spacing: 1px;
+    background-color: white;
+}
+
+.footer-notes a {
+    text-decoration: none;
+    margin-left: 240px;
+}
+
+.footer a:hover {
+    border-bottom: 2px solid black;
+}
