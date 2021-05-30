@@ -3,6 +3,13 @@
 * {
     margin: 0;
     padding: 0;
-    font-size: xx-large;
+    font-family: cursive, 'Times New Roman', Times, serif;
+    font-size: 1.0em;
 }
 
+#hero {
+    background:url(/assets/images/hero-image.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
