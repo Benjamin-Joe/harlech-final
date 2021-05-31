@@ -144,12 +144,64 @@ h3{
 .footer-notes a {
     text-decoration: none;
     margin-left: 240px;
-    
 }
 
 .footer a:hover {
     border-bottom: 2px solid black;
 }
 
-/* gallery */
+/* gallery left */
 
+.container {
+    clear: both;
+    max-width: 600px;
+    margin: auto;
+    float: left;
+    overflow: auto;
+    background: rgb(231, 216, 216);
+}
+
+.gallery {
+    margin: 5px;
+    float: left;
+    width: auto;
+}
+
+.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+/* gallery right */
+
+.container-right {
+    clear: both;
+    max-width: 600px;
+    margin: auto;
+    float: right;
+    overflow: auto;
+    background: rgb(231, 216, 216);
+}
+
+.gallery-right {
+    margin: 5px;
+    float: right;
+    width: auto;
+}
+
+.gallery-right img {
+    width: 100%;
+    height: auto;
+}
+
+.desc-right {
+    padding: 15px;
+    text-align: center;
+}
+
+/* media query */
