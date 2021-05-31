@@ -150,58 +150,44 @@ h3{
     border-bottom: 2px solid black;
 }
 
-/* gallery left */
+/* gallery  */
 
-.container {
+#photos {
     clear: both;
-    max-width: 600px;
-    margin: auto;
-    float: left;
-    overflow: auto;
-    background: rgb(231, 216, 216);
+    line-height: 0;
+    column-count: 3;
+    column-gap: 20px;
 }
 
-.gallery {
-    margin: 5px;
-    float: left;
-    width: auto;
-}
-
-.gallery img {
+#photos > img {
     width: 100%;
-    height: auto;
 }
 
 .desc {
-    padding: 15px;
+    padding: 10px;
     text-align: center;
+    background-color: #c5bbbb;
 }
 
-/* gallery right */
+/* map */
 
-.container-right {
-    clear: both;
-    max-width: 600px;
-    margin: auto;
+iframe {
+    width: 50%;
+    height: 300px;
+    padding: 10px;
+}
+
+/* info */
+
+#info > p {
     float: right;
-    overflow: auto;
-    background: rgb(231, 216, 216);
-}
-
-.gallery-right {
-    margin: 5px;
-    float: right;
-    width: auto;
-}
-
-.gallery-right img {
-    width: 100%;
-    height: auto;
-}
-
-.desc-right {
-    padding: 15px;
+    width: 40%;
+    padding: 10px;
     text-align: center;
+    background-color: rgb(250, 199, 199);
 }
 
-/* media query */
+#info > p, iframe {
+line-height: 20px;
+}
+
