@@ -135,12 +135,13 @@ h3{
     padding: 20px 0;
     box-sizing: border-box;
     letter-spacing: 1px;
-    background-color: white;
+    background-color: rgb(255, 255, 255);
 }
 
 .footer-notes a {
     text-decoration: none;
     margin-left: 240px;
+    
 }
 
 .footer a:hover {
