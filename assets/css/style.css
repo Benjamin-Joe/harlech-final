@@ -39,7 +39,7 @@
     overflow: hidden;
 }
 
-/* cover text */
+/* text on hero image */
 
 #cover-text  {
     color: black;
@@ -82,6 +82,7 @@ h1 {
 text-transform: uppercase;
 color: black;
 letter-spacing: 1px;
+margin-left: 10px;
 }
 
 h2 {
@@ -138,8 +139,7 @@ h3{
     padding: 20px 0;
     box-sizing: border-box;
     letter-spacing: 1px;
-    background-color: rgb(172, 228, 170);
-    
+    background-color: rgb(172, 228, 170);  
 }
 
 .footer-notes a {
@@ -170,15 +170,13 @@ h3{
     background-color: #c5bbbb;
 }
 
-/* map */
+/* map and info */
 
 iframe {
     width: 50%;
     height: 300px;
     padding: 2px;
 }
-
-/* info */
 
 #info > p {
     font-size: 1.2em;
@@ -194,4 +192,23 @@ iframe {
 line-height: 20px;
 }
 
-/* history */
+/* Fun facts */
+
+#facts{
+    clear: both;
+    font-size: 1.2em;
+    width: 60%;
+    padding: 20px;
+    background-color: rgb(201, 236, 131);
+    border: solid 5px orange;
+}
+
+#tour {
+    clear: both;
+    width: 100%;
+    text-align: center;
+}
+
+
+
+
