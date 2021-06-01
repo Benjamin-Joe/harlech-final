@@ -211,19 +211,37 @@ line-height: 20px;
 #tour {
     clear: both;
     display: block;
-  margin-left: 50px;
+  width: 100%;
   border: solid 1px black;
 }
 
 #video {
     width: 50%;
     padding: 0;
+    margin-left: 300px;
 }
 
 .source-v {
-    text-align: left;
-    padding-left: 130px;
+    text-align: center;
 }
 
 
 /* history */
+
+#history {
+clear: both;
+font-size: 1.5em;
+width: 100%;
+padding: 30px;
+border: solid 5px #ffa500;
+text-align: center;
+list-style-type: none;
+}
+
+#doc {
+    clear: both;
+    width: 50%;
+    margin-left: 300px;
+    
+}
+
