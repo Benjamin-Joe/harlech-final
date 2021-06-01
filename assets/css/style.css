@@ -307,3 +307,75 @@ list-style-type: none;
     }
    
   }
+
+  /* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+
+    body {
+        background-color: orange;
+      }
+      #menu, li {
+          display: inline-block
+      }
+
+      #summary-text {
+          font-size: small;
+          height: 40%; 
+      }
+
+      #cover-text {
+        margin-bottom: 120px;
+      }
+
+      .footer-notes a {
+        margin-left: 110px;
+    }
+
+      #doc {
+          margin-left: 160px;
+      }
+
+      #photos{
+        column-count: 1;
+    }
+
+    #facts {
+        border: none;
+    }
+
+    #tour, img {
+        width: 100%;
+     }
+
+     #video {
+         margin-left: 160px
+     }
+
+
+}
+
+
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+    body {
+        background-color: purple;
+    }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+
+    body {
+        background-color: grey;
+    }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+
+    body {
+        background-color: pink;
+    }
+}
