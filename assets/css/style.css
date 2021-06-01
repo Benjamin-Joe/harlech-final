@@ -1,5 +1,9 @@
 /* rules to apply to all */
 
+body{
+    overflow-x: hidden;
+}
+
 * {
     margin: 0;
     padding: 0;
