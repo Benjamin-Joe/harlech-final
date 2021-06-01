@@ -16,7 +16,7 @@ Gallery - The gallery section is what i'm most proud of, it contains my favorite
 Fun Facts - In creating a fun fact page I believe I am able to engage with users by giving them quick and fun little bites of information.
 
 ## Languages used:
-HTML5
+HTML5 <br>
 CSS3
 
 ## Website used for help
