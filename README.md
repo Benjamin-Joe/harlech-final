@@ -39,3 +39,9 @@ I encountered many problems during the creation of this website. I have had majo
 ## Help Recieved
 I was very lucky to have been given a great and patient mentor who has helped me through any and all issues I encountered. I also had some tutor help on code institute, he was incredibly helpful and put me back on track when things seemed to be falling appart.
 
+## Sources and Tips
+Bellow are a list of links showing where I got all my data:
+[W4schools](https://www.w3schools.com/default.asp)
+
+
+
