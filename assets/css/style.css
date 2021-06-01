@@ -5,7 +5,7 @@
     padding: 0;
     border: 0;
     box-sizing: border-box;
-    font-family: 'Times New Roman', Times, serif (Arial, Helvetica, sans-serif);
+    font-family: 'Times New Roman', Times, serif Arial, Helvetica, sans-serif;
     font-size: 1.0em;
     color: #3a3a3a;
 }
@@ -211,6 +211,11 @@ line-height: 20px;
 #video {
     width: 50%;
     padding: 0;
+}
+
+.source-v {
+    text-align: left;
+    padding-left: 130px;
 }
 
 /* history */
