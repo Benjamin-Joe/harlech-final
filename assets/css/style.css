@@ -247,11 +247,12 @@ list-style-type: none;
     text-align: center;
 }
 
-@media only screen and (max-width: 600px) {
-    body {
+/* Smallest devices */
 
-        /* homepage */
-        
+@media only screen and (max-width: 600px) {
+ 
+    
+    body {
       background-color: lightblue;
     }
     #logo {
@@ -271,12 +272,38 @@ list-style-type: none;
     }
 
     #cover-text {
-        font-size: small;
-        
+        font-size: small;   
     }
 
     .footer-notes a {
         margin-left: 100px;
     }
 
+    #doc {
+        margin-left: 130px;
+
+    }
+
+    #photos{
+        column-count: 1;
+    }
+
+    #facts{
+        clear: both;
+        font-size: small;
+        width: 100%;
+        padding: 70px;
+        border: none;
+        text-align: center;
+        list-style-type: none;
+    }
+
+    #tour, img {
+       width: 100%;
+    }
+
+    #video {
+        margin-left: 130px; 
+    }
+   
   }
