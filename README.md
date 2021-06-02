@@ -4,7 +4,6 @@
 
 [W3C-CSS-Validator](http://www.css-validator.org/validator?uri=https%3A%2F%2Fbenjamin-joe.github.io%2Fharlech-final%2F&profile=css21&usermedium=all&warning=1&lang=en)
 
-[Image-Welsh-Dragon] (assets/images/Flag_of_Wales.svg.png)
 
 
 ## My Goal:

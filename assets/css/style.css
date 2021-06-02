@@ -250,6 +250,10 @@ list-style-type: none;
 /* Smallest devices */
 
 @media only screen and (max-width: 600px) {
+
+    body {
+        background-color: cadetblue;
+    }
  
     #logo {
         font-size: xlarge;
@@ -307,6 +311,10 @@ list-style-type: none;
   /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
 
+    body {
+        background-color: cadetblue;
+    }
+
       #menu, li {
           display: inline-block
       }
@@ -349,6 +357,10 @@ list-style-type: none;
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
 
+    body {
+        background-color: cadetblue;
+    }
+
     #menu, li {
         margin-left: 50px;
     }
@@ -374,6 +386,10 @@ list-style-type: none;
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
 
+    body {
+        background-color: cadetblue;
+    }
+
     #menu, li {
         padding-right: 50px;
         display: inline-block
@@ -387,6 +403,10 @@ list-style-type: none;
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
 /* hero image and animation */
+
+body {
+    background-color: cadetblue;
+}
 
 #hero {
     height: 600px;
