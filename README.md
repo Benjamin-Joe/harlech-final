@@ -12,6 +12,10 @@ The existing Harlech Castle website leaves much to be desired and I want to crea
 ## Website Layout:
 I want me website layout to be easy and self explanatory for new users. By keeping the layout fairly basic I believe I am able to create a good user experience as the flow of the website isn't complicated to follow.
 
+## Color
+
+I went for a light shade a blue for the background, with a splash of orange in some areas. Green for the footer. Those colors sound a bit of a strange combination, but I think it's quite eye catching.
+
 ## Website Pages:
 The Website pages are as follows:
 Homepage - Containing a hero image, some basic information about Harlech Castle.
