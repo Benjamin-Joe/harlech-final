@@ -1,6 +1,12 @@
 # **Harlech Castle Website**
 
 [My live project](https://benjamin-joe.github.io/harlech-final/)
+
+[W3C-CSS-Validator](http://www.css-validator.org/validator?uri=https%3A%2F%2Fbenjamin-joe.github.io%2Fharlech-final%2F&profile=css21&usermedium=all&warning=1&lang=en)
+
+[Image-Welsh-Dragon] (assets/images/Flag_of_Wales.svg.png)
+
+
 ## My Goal:
 My goal from this project is to create a user friendly walkthrough guide to Harlech Castle.
 The existing Harlech Castle website leaves much to be desired and I want to create a better user experience, especially for first time users in the hope that in the future this site may be able to bring more tourism into the area.
@@ -40,8 +46,28 @@ I encountered many problems during the creation of this website. I have had majo
 I was very lucky to have been given a great and patient mentor who has helped me through any and all issues I encountered. I also had some tutor help on code institute, he was incredibly helpful and put me back on track when things seemed to be falling appart.
 
 ## Sources and Tips
-Bellow are a list of links showing where I got all my data:
-[W4schools](https://www.w3schools.com/default.asp)
+Bellow are a list of links showing where I got all my data:<br>
+[W4schools](https://www.w3schools.com/default.asp)<br>
+[wikipedia] (https://www.wikipedia.org/)<br>
+[Visit-Wales](https://www.visitwales.com/attraction/castle/harlech-castle-cadw-1834662)
+[Youtube](https://www.youtube.com/)
+
+## Issues-No solution
+For some reason I wasn't able to check my HTML with W3C. I did check my work with another site and encountered the issues bellow: <br>
+Malformed byte sequence: “a3”.
+At line 42, column 46
+Code Extract:
+Malformed byte sequence: “a3”.
+At line 43, column 67
+Code Extract:
+Malformed byte sequence: “a3”.
+At line 62, column 35
+Code Extract:
+Malformed byte sequence: “a3”.
+At line 63, column 25
+Code Extract:
+
+
 
 
 
