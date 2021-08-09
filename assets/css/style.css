@@ -220,9 +220,42 @@ line-height: 20px;
     text-align: center;
 }
 
+/*Media queries for screen size of max width 350px*/
 
-@media (max-width: 400px) {
-    * {
-        font-size: 0.5em;
+@media (max-width: 350px){
+
+    /*Homepage media queries max width 350px*/
+
+    #logo {
+        text-align: center;
+    }
+
+    #menu li {
+        margin: 10px;
+        float: left;
+        font-size: 75%;
+    }
+
+    #image-text {
+        display: block;
+        margin: 0 auto;
+        top: 50%;
+    }
+
+    .footer-notes a {
+        margin-left: 50px;
+    }
+
+}
+
+@media (min-width: 400px) {
+    #logo {
+        text-align: center;
+    }
+
+    #menu li {
+        margin: 10px;
+        float: left;
+        font-size: 80%;
     }
 }
