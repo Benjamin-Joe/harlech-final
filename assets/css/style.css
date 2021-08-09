@@ -1,4 +1,4 @@
-/* rules to apply to all */
+/* Rules to apply to all */
 
 body{
     overflow-x: hidden;
@@ -13,7 +13,7 @@ body{
     color: #3a3a3a;
 }
 
-/* hero image and animation */
+/* Hero image and animation of hero image */
 
 #hero {
     height: 600px;
@@ -42,7 +42,7 @@ body{
     overflow: hidden;
 }
 
-/* Hero image Text*/
+/* Hero image text*/
 
 #image-text {
     font-size: 2em;
@@ -54,7 +54,7 @@ body{
     color: black;
     background-color: rgb(250, 249, 249, 0.5);
 }
-/* Headings */
+/* Headings across the whole website */
 
 h1 {
 text-transform: uppercase;
@@ -75,12 +75,14 @@ h3{
     font-size: 100%;
 }
 
-/* Logo for Harlech Castle title */
+/* Logo for Harlech Castle title to be applied to each page */
 
 #logo {
     float: left;
     font-size: 250%;
 }
+
+/* Navigation bar*/
 
 #menu {
     font-size: 125%;
@@ -109,7 +111,7 @@ h3{
     border-bottom: 2px solid black;
 }
 
-/* footer */
+/* Footer */
 
 footer {
     width: 100vw;
@@ -131,26 +133,7 @@ footer {
     border-bottom: 2px solid black;
 }
 
-/* gallery  */
-
-#photos {
-    clear: both;
-    line-height: 0;
-    column-count: 3;
-    column-gap: 30px;
-}
-
-#photos > img {
-    width: 100%;
-}
-
-.desc {
-    padding: 25px;
-    text-align: center;
-    background-color: #c5bbbb;
-}
-
-/* map and info */
+/* Map and info on homepage */
 
 iframe {
     width: 100%;
@@ -167,6 +150,43 @@ line-height: 20px;
 #open {
     border: black 1px solid;
     text-align: center;
+}
+
+/* History page */
+
+#history {
+    clear: both;
+    font-size: 1.5em;
+    width: 100%;
+    padding: 30px;
+    border: solid 5px #ffa500;
+    text-align: center;
+    list-style-type: none;
+    background-color: rgb(99, 94, 94, 0.4);
+}
+    
+#contact {
+    text-align: center;
+}
+    
+
+/* Gallery  */
+
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 3;
+    column-gap: 30px;
+}
+
+#photos > img {
+    width: 100%;
+}
+
+.desc {
+    padding: 25px;
+    text-align: center;
+    background-color: #c5bbbb;
 }
 
 /* Fun facts */
@@ -197,24 +217,6 @@ line-height: 20px;
 }
 
 .source-v {
-    text-align: center;
-}
-
-
-/* history */
-
-#history {
-clear: both;
-font-size: 1.5em;
-width: 100%;
-padding: 30px;
-border: solid 5px #ffa500;
-text-align: center;
-list-style-type: none;
-background-color: rgb(99, 94, 94, 0.4);
-}
-
-#contact  {
     text-align: center;
 }
 
