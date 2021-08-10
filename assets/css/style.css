@@ -529,7 +529,7 @@ line-height: 20px;
 
 @media (min-width: 1240px) {
     #menu li {
-        margin-left: 140px;
+        margin-left: 150px;
     }
 }
 
@@ -545,6 +545,10 @@ line-height: 20px;
     #menu li {
         float: right;
 
+    }
+
+    #menu li a {
+        margin-left: 30px;
     }
 
     .footer-notes a {
