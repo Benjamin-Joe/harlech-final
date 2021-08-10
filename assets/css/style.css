@@ -225,11 +225,10 @@ line-height: 20px;
     text-align: center;
 }
 
-/*Media queries for screen size of max width 350px*/
+/*Media queries for screen size of max width 320px*/
 
-@media (max-width: 350px){
+@media (max-width: 320px){
 
-    /*Homepage media queries max width 350px*/
 
     #logo {
         font-size: 200%;
@@ -251,7 +250,6 @@ line-height: 20px;
         margin-left: 50px;
     }
 
-    /*History page max-width 350px*/
 
     #history {
         font-size: 1em;
@@ -265,8 +263,6 @@ line-height: 20px;
         text-decoration: underline;
     }
 
-    /*Gallery max width 350px*/
-
     #photos {
         column-count: 1;
     }
@@ -275,8 +271,6 @@ line-height: 20px;
         padding: 10px;
         font-size: 0.6em;
     }
-
-    /*Fun facts max width 350px*/
 
     #facts{
         clear: both;
@@ -296,11 +290,9 @@ line-height: 20px;
 
 }
 
-/*All media queries in this section*/
 
 @media (min-width: 351px) {
 
-    /*Homepage for min width 351px*/
     #logo {
         text-align: center;
     }
@@ -331,7 +323,6 @@ line-height: 20px;
         font-size: 100%;
     }
 
-    /* Gallery for min width 351 px*/
 
     #photos {
         column-count: 1;
@@ -340,8 +331,6 @@ line-height: 20px;
     .desc {
         font-size: 90%;
     }
-
-    /*Fun facts for min width 351 px*/
 
     #facts {
         font-size: 1em;
