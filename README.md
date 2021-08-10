@@ -3,7 +3,7 @@
 [My live project](https://benjamin-joe.github.io/harlech-final/)
 
 [HTMl-Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbenjamin-joe.github.io%2Fharlech-final%2F)<br>
-[CSS-Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fbenjamin-joe.github.io%252Fharlech-final%252F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+[CSS-Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fbenjamin-joe.github.io%252Fharlech-final%252F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)<br>
 [Responsive-Checker](https://www.responsinator.com/?url=https%3A%2F%2Fbenjamin-joe.github.io%2Fharlech-final%2F)
 
 ## Images of project:
