@@ -2,7 +2,9 @@
 
 [My live project](https://benjamin-joe.github.io/harlech-final/)
 
-[W3C-CSS-Validator](http://www.css-validator.org/validator?uri=https%3A%2F%2Fbenjamin-joe.github.io%2Fharlech-final%2F&profile=css21&usermedium=all&warning=1&lang=en)
+[HTMl-Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbenjamin-joe.github.io%2Fharlech-final%2F)
+[CSS-Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fbenjamin-joe.github.io%252Fharlech-final%252F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
 
 
 ## My Goal:
@@ -29,11 +31,6 @@ CSS3
 
 ## Website used for help
 * Hover.css:
-Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
-* Google Fonts:
-Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
-* Font Awesome:
-Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 * Git
 Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 * GitHub:
@@ -51,23 +48,12 @@ I was very lucky to have been given a great and patient mentor who has helped me
 Bellow are a list of links showing where I got all my data:<br>
 [W4schools](https://www.w3schools.com/default.asp)<br>
 [wikipedia] (https://www.wikipedia.org/)<br>
-[Visit-Wales](https://www.visitwales.com/attraction/castle/harlech-castle-cadw-1834662)
-[Youtube](https://www.youtube.com/)
+[Visit-Wales](https://www.visitwales.com/attraction/castle/harlech-castle-cadw-1834662)<br>
+[Youtube](https://www.youtube.com/)<br>
 
-## Issues-No solution
-For some reason I wasn't able to check my HTML with W3C. I did check my work with another site and encountered the issues bellow: <br>
-Malformed byte sequence: “a3”.
-At line 42, column 46
-Code Extract:
-Malformed byte sequence: “a3”.
-At line 43, column 67
-Code Extract:
-Malformed byte sequence: “a3”.
-At line 62, column 35
-Code Extract:
-Malformed byte sequence: “a3”.
-At line 63, column 25
-Code Extract:
+## Bugs
+The only bug I could find was a bug that displayed the image discription for Castle fron mountain view at the top of the page for screen sizes between 750px and 1000px
+
 
 
 
