@@ -202,6 +202,11 @@ line-height: 20px;
     background-color: rgb(46, 45, 45, 0.2);
 }
 
+.fun-title {
+    text-align: center;
+    text-decoration: underline;
+}
+
 .map {
     display: block;
     margin: 0 auto;
