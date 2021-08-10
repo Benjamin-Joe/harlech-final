@@ -351,6 +351,7 @@ line-height: 20px;
     }
 }
 
+
 /*Media queries for min width 400px*/
 
 
@@ -507,6 +508,48 @@ line-height: 20px;
     }
 }
 
+/*Media queries min width 1100px*/
+
+@media (min-width: 1100px) {
+    #menu li {
+        margin-left: 110px;
+    }
+
+    .footer-notes a {
+        margin-right: 120px;
+    }
+}
+
+/*Media queries min witdh 1240px*/
+
+@media (min-width: 1240px) {
+    #menu li {
+        margin-left: 140px;
+    }
+}
+
+/*Media queries min width 1280px*/
+
+@media (min-width: 1280px) {
+
+    #logo {
+        float: left;
+        margin: 0;
+    }
+
+    #menu li {
+        float: right;
+
+    }
+
+    .footer-notes a {
+        margin-right: 165px;
+    }
+
+    .map {
+        width: 80%;
+    }
+}
 
 
 
