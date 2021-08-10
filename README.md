@@ -2,7 +2,7 @@
 
 [My live project](https://benjamin-joe.github.io/harlech-final/)
 
-[HTMl-Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbenjamin-joe.github.io%2Fharlech-final%2F)
+[HTMl-Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fbenjamin-joe.github.io%2Fharlech-final%2F)<br>
 [CSS-Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fbenjamin-joe.github.io%252Fharlech-final%252F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ## Images of project:
@@ -52,7 +52,7 @@ I was very lucky to have been given a great and patient mentor who has helped me
 ## Sources and Tips
 Bellow are a list of links showing where I got all my data:<br>
 [W4schools](https://www.w3schools.com/default.asp)<br>
-[wikipedia] (https://www.wikipedia.org/)<br>
+[wikipedia](https://www.wikipedia.org/)<br>
 [Visit-Wales](https://www.visitwales.com/attraction/castle/harlech-castle-cadw-1834662)<br>
 [Youtube](https://www.youtube.com/)<br>
 
