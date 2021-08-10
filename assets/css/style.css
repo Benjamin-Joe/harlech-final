@@ -521,7 +521,7 @@ line-height: 20px;
     }
 
     .footer-notes a {
-        margin-right: 120px;
+        padding-right: 65px;
     }
 }
 
@@ -550,10 +550,6 @@ line-height: 20px;
 
     #menu li a {
         margin: 20px;
-    }
-
-    .footer-notes a {
-        padding-left: 70px;
     }
 
     .map {
